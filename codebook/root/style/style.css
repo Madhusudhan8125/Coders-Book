@@ -1,0 +1,70 @@
+body { margin: 0px; font-family: calibri, Geneva, sans-serif; font-size: 20px; }
+#pagetop {
+background:url(hzzeadersilver.png) repeat-x;
+height: 90px;
+}
+#pagetop > #pagetopwrap {
+width:1000px;
+margin:0px auto;
+height:90px; 
+
+}
+#pagetop > #pagetopwrap > #pagetoplogo {
+float:left;
+width:108px;
+height:90px;
+}
+#pagetop > #pagetopwrap > #pagetoprest {
+float:left;
+width:892px;
+height:90px;
+}
+#pagetop > #pagetopwrap > #pagetoprest > #menu1 {
+
+height:35px;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div {
+	margin-top: 0px;
+	padding: 4px;
+	text-align:right;
+	margin-bottom: 5px;
+	
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div > a {
+	color: #555;
+	text-decoration: none;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu1 > div > a:hover {
+	color: #C0E73D;
+}
+#pagetop > #pagetopwrap > #pagetoprest > #menu2 {
+height:35px;
+
+}
+#pagetop > #pagetopwrap > #pagetoprest > #menu2 > div{
+margin-top:0px;
+padding:1px;
+
+}
+#pagetop > #pagetopwrap > #pagetoprest > #menu2 > div > a{
+margin: 0px 12px;
+display: block;
+text-decoration: none;
+float: left;
+color: #555;
+}
+#pageTop > #pageTopWrap > #pageTopRest > #menu2 > div > a:hover {
+	color: #07c;
+}
+#pagemiddle{
+	width: 1000px;
+	margin: 0px auto;
+	height: 580px;
+}
+#pagebottom{
+	background: #07c;
+	padding: 24px;
+	font-size: 12px;
+	color: #CCC;
+	text-align: center;
+}

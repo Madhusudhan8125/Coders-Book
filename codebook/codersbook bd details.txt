@@ -1,0 +1,15 @@
+$mysql_host = "mysql4.000webhost.com";
+$mysql_database = "a2106918_code";
+$mysql_user = "a2106918_coder";
+$mysql_password = "codersbook1" or "codersbook2";
+
+
+Email:  donotreply@codersbook.site50.net
+
+************************************************
+$mysql_host = "fdb6.awardspace.net";
+$mysql_database = "1647387_code";
+$mysql_user = "1647387_code";
+$mysql_password = "codersbook1";
+
+email:
